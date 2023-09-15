@@ -3,22 +3,22 @@ Programming content for AI With Python Workshop
 
 # Workshop data
 ## Session 02: Intro to python
-https://urlzs.com/YXGdB
+https://shorturl.at/DRXZ3
 
 ## Session 03: Intro to Pytorch and NN architecture 
-https://urlzs.com/neKhT<br>
+https://shorturl.at/muQT9<br>
 advance version<br>
-https://shorturl.at/bruB3
+https://shorturl.at/bfkV5
 ### NN Visulizer
 https://playground.tensorflow.org/
 
 ## Session 04: CNN and how they work
-https://urlzs.com/KzGAN
+https://shorturl.at/nrxKN
 ### CNN Visulizer  
 https://poloclub.github.io/cnn-explainer/
 
 ## Session 05: Object Detection using Yolo & DETR
-https://urlzs.com/xu5Rw
+https://shorturl.at/jmoVX
 
 # Additional Resources 
 ## openAi gym
