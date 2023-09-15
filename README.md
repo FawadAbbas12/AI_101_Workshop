@@ -5,7 +5,7 @@ Programming content for AI With Python Workshop
 ## Session 02: Intro to python
 https://urlzs.com/YXGdB
 
-## Session 03: Intor Pytorch and NN architecture 
+## Session 03: Intro to Pytorch and NN architecture 
 https://urlzs.com/neKhT<br>
 advance version<br>
 https://shorturl.at/bruB3
