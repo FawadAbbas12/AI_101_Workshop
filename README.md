@@ -9,12 +9,12 @@ https://shorturl.at/DRXZ3
 https://shorturl.at/muQT9<br>
 advance version<br>
 https://shorturl.at/bfkV5
-### NN Visulizer
+### NN Visualiser
 https://playground.tensorflow.org/
 
 ## Session 04: CNN and how they work
 https://shorturl.at/nrxKN
-### CNN Visulizer  
+### CNN Visualiser  
 https://poloclub.github.io/cnn-explainer/
 
 ## Session 05: Object Detection using Yolo & DETR
