@@ -1,7 +1,7 @@
-# AI_101_Workshop 
-Programming content for AI_101_Workshop
-# Workshop data
+# AI With Python 
+Programming content for AI With Python
 
+# Workshop data
 ## Session 02: Intro to python
 https://urlzs.com/YXGdB
 
